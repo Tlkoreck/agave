@@ -1,49 +1,79 @@
 Front-End Web Development Project Requirements
 Project Deadline: Last Friday of the class, by 11:59am
+
 There will be a form provided approximately 2 weeks prior to the due date that you will complete to “turn-in” your project. 
+
 Late projects will not be accepted
 
 
 The purpose of the capstone project is to reinforce what you’ve learned and show off your skills. Your projects will be your go-to tool to show off to potential employers and demonstrate you know what you’re talking about. Pick an idea that is fun, challenging, and hopefully useful, too!
+
 Create a website that demonstrates your knowledge of the Front-end development skills you’ve been learning. This application can be anything of your choosing as long as it demonstrates the below requirements. 
+
 Requirements
 The below items are the requirements for your personal project for the Front-end class. Projects are graded on a pass/fail system, thus every required bullet must be met in order for your project to pass. You should discuss your project/plan with mentors in advance to verify that it will meet the requirements, but also to make sure you don't tackle too large of a project for this class. 
 
 Failure to meet all requirements will result in you not completing the class, and you will be unable to continue with the program. Program staff and mentors will review projects after they are turned in and will determine if your project meets these requirements.
 
 Feature Requirements:
-Choose a minimum of 3 of the below features and incorporate into your site
-A navigation menu that collapses into a responsive mobile-friendly menu (such as a “hamburger” menu) 
-Use Flexbox or CSS Grid to rearrange 2 or more content areas on your page as the screen changes sizes
-Use media queries to switch from a one-column mobile layout to a two or more column desktop layout 
-Create a form that takes in at least two fields of information and validates input (for example, it checks to ensure email is the a@b.com format
-Create a JavaScript function whose return value is used in your site. The function must be triggered by user action (ex: clicking a button).
-Use JavaScript to perform math operations and display the result on your site
-Create and populate a JavaScript array, then retrieve and display one or more values from it
-Use “:nth child” CSS to style a series of elements (for example, change the color of every 2nd item in a list)
-Import Bootstrap from a CDN and use its column system to create a responsive design
-Create an image carousel with at least 3 images that it rotates through
-Other features can be added to this list - just ask if your project needs something specific and as long as it’s a good demonstration of your programming skills, it almost certainly will count! Basically, we just want to see you do something interesting and challenging!
+    Choose a minimum of 3 of the below features and incorporate into your site
+
+    A navigation menu that collapses into a responsive mobile-friendly menu (such as a “hamburger” menu) 
+
+    Use Flexbox or CSS Grid to rearrange 2 or more content areas on your page as the screen changes sizes
+
+    Use media queries to switch from a one-column mobile layout to a two or more column desktop layout 
+
+    Create a form that takes in at least two fields of information and validates input (for example, it checks to ensure email is the a@b.com format
+
+    Create a JavaScript function whose return value is used in your site. The function must be triggered by user action (ex: clicking a button).
+
+    Use JavaScript to perform math operations and display the result on your site
+
+    Create and populate a JavaScript array, then retrieve and display one or more values from it
+
+    Use “:nth child” CSS to style a series of elements (for example, change the color of every 2nd item in a list)
+
+    Import Bootstrap from a CDN and use its column system to create a responsive design
+
+    Create an image carousel with at least 3 images that it rotates through
+
+    Other features can be added to this list - just ask if your project needs something specific and as long as it’s a good demonstration of your programming skills, it almost certainly will count! Basically, we just want to see you do something interesting and challenging!
+
 Additional Requirements
 ALL of the below requirements must be met.
-Your project is responsive to different devices and/or browser sizes and improves the user experience in some way
-We will look at your app on a desktop screen and a mobile device to see what changes occur
-We must be able to see the change that your code is making on your website - a media query can be written correctly but have no actual effect. That will not be ok in this class.
-Your project includes at minimum 3 custom-written CSS elements (selectors, classes, etc) located in a .css file which are applied to your HTML elements
-The CSS must be included in its own file, not “in-line” on your HTML page - we want to see that you can properly “link” a stylesheet
-Many of the options in the first requirement will also fulfil this requirement
-Your project includes JavaScript in a separate .js file
-Script tags in your HTML file must execute the JS file
-Many of the options in the first requirement will also fulfil this requirement
-Your code have comments that document major sections of your code to make it easier to read
-You don’t need to go crazy on this - a few code comments are perfectly fine
-Your project code is uploaded to your GitHub account, in its own repository, with at least 5 commits
-We need to see that you’ve used Git to update your GitHub profile at least 5 times
-Using GitHub’s file uploader does not count as a check-in. You must upload via Git. 
+
+    Your project is responsive to different devices and/or browser sizes and improves the user experience in some way
+
+    We will look at your app on a desktop screen and a mobile device to see what changes occur
+    We must be able to see the change that your code is making on your website - a media query can be written correctly but have no actual effect. That will not be ok in this class.
+
+    Your project includes at minimum 3 custom-written CSS elements (selectors, classes, etc) located in a .css file which are applied to your HTML elements
+    The CSS must be included in its own file, not “in-line” on your HTML page - we want to see that you can properly “link” a stylesheet
+
+    Many of the options in the first requirement will also fulfil this requirement
+
+    Your project includes JavaScript in a separate .js file
+
+    Script tags in your HTML file must execute the JS file
+
+    Many of the options in the first requirement will also fulfil this requirement
+
+    Your code have comments that document major sections of your code to make it easier to read
+    You don’t need to go crazy on this - a few code comments are perfectly fine
+
+    Your project code is uploaded to your GitHub account, in its own repository, with at least 5 commits
+
+    We need to see that you’ve used Git to update your GitHub profile at least 5 times
+
+    Using GitHub’s file uploader does not count as a check-in. You must upload via Git. 
+
 It must include a README file located at the top level directory of your project that includes:
-A description of your project
-What features you chose to included (so we know what to look for)
-Any special instructions we might need to run your project
+        A description of your project
+
+        What features you chose to included (so we know what to look for)
+        
+        Any special instructions we might need to run your project
 
 
 
